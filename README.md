@@ -1,6 +1,4 @@
 # 02_Microsoft_vscode_Installation <br>
-<a href='https://bit.ly/3OWynFW'> Video Link </a>
-
 IDLE --> Integrated Development Learning Environment <br>
 IDE --> Integrated Development Environment <br>
 
