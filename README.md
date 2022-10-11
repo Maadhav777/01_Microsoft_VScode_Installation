@@ -1,5 +1,5 @@
 # 02_Microsoft_vscode_Installation <br>
-IDLE --> Integrated Development Learning Environment <br>
+IDLE --> Integrated Development Learning Environment <br><br>
 IDE --> Integrated Development Environment <br>
 
 IDE / Text Editors For python
